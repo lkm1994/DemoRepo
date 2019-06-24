@@ -1,0 +1,33 @@
+.container-fluid {
+    margin:0;
+    padding:0;
+}
+.scorecard-search {
+    word-wrap: normal !important;
+    border-radius: 0;
+    width:80%;
+    margin-left:10% !important;
+    border: none;
+    margin-top:2%;
+}
+.scorecard-search h3 {
+    color: #888888;
+    text-align: center
+}
+.score-bar {
+    margin-left: 8%;
+    margin-top: 5%;
+}
+.score-title {
+    width: 60%;
+    margin-left: 16%;
+    margin-top: 3%;
+}
+.score-buttons {
+    /* display:inline-flex; */
+    align-content: center;
+    margin-left: 26%;
+}
+.react-autosuggest__container {
+    width:90% !important;
+}

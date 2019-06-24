@@ -1,0 +1,74 @@
+.container-fluid {
+    padding:0;
+    margin:0;
+}
+.create-score {
+    border: 1px solid #407ebc;
+    margin: 2%;
+}
+.create-score h3{
+    border-bottom: 1px solid #84bc56;
+    text-align: center;
+    padding: 25px;
+}
+.score {
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.score span {
+    margin-bottom: 5%;
+}
+.score-columns {
+    font-size:20px;
+}
+.financial-factors {
+    margin-left: 5%;
+}
+.financial-search {
+    margin-top: 20px;
+}
+
+.table {
+    margin-top:2%;
+}
+.risk-table {
+    width:90%;
+}
+.risk-grade {
+    margin-left: -3%;
+}
+.override {
+    margin-left:-2%;
+}
+.score-button {
+    width:71%;
+    height:130%
+}
+.scorecard-buttons {
+    margin: 5% 0 4% 8%;
+}
+.score-range {
+    text-align: center;
+    border:2px solid #dddddd;
+    max-width: 27%;
+    margin-left: 2.5%;
+    /* height: 37%; */
+    line-height: 40px;
+}
+.grade-name {
+    max-width: 16%;
+    text-align: center;
+    border: 2px solid #dddddd;
+    margin-left: 0;
+    line-height: 40px;
+}
+.grade-desc {
+    max-width: 31%;
+    text-align: center;
+    border: 2px solid #dddddd;
+    margin-left: 0;
+    line-height: 40px;
+}
+.primary-columns {
+    margin-bottom: -2%;
+}

@@ -1,0 +1,44 @@
+{
+    "RiskFactors": [
+        {
+            "value": "aoc",
+            "label": "Age Of Company"
+        },
+        {
+            "value": "cr",
+            "label": "Current Ratio"
+        },
+        {
+            "value": "industrialAccident",
+            "label": "Industrial Accident"
+        },
+        {
+            "value": "name",
+            "label": "Name"
+        },
+        {
+            "value": "year",
+            "label": "Year"
+        },
+        {
+            "value": "email",
+            "label": "Email"
+        },
+        {
+            "value": "username",
+            "label": "UserName"
+        },
+        {
+            "value": "rubix",
+            "label": "Rubix"
+        },
+        {
+            "value": "react",
+            "label": "React"
+        },
+        {
+            "value": "angular",
+            "label": "Angular"
+        }
+    ]
+}
